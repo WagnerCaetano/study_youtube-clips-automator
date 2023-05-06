@@ -1,6 +1,6 @@
 audiotsm
 numpy
-opencv_python
+opencv-python
 Pillow
 pytube
 rembg
